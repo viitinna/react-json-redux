@@ -1,0 +1,43 @@
+{
+    "user": [
+        {
+            "name ": "Irina",
+            "address": "Kyiv",
+            "contact": "0674432567",
+            "email": "irina@gmail.com",
+            "id": 1
+        },
+
+        {
+            "name ": "Artem",
+            "address": "Dnipro",
+            "contact": "0674453577",
+            "email": "artem@gmail.com",
+            "id": 2
+        },
+
+        {
+            "name ": "Nataliay",
+            "address": "Lviv",
+            "contact": "0953459865",
+            "email": "nataliay@gmail.com",
+            "id": 3
+        },
+
+        {
+            "name ": "Oleksandr",
+            "address": "Vinnytsia",
+            "contact": "0992349888",
+            "email": "oleksandr@gmail.com",
+            "id": 4
+        },
+
+        {
+            "name ": "Valentyna",
+            "address": "Mykolaiv",
+            "contact": "0508973425",
+            "email": "valentyna@gmail.com",
+            "id": 5
+        }
+    ]
+}
