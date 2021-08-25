@@ -54,7 +54,7 @@ const handleSubmit = (e) => {
     if(!name || !address || !email || !contact) {
         setError("Please input all input Field");
     } else {
-       dispatch(updateUser(state));
+       dispatch(updateUser(state, id));
        history.push("/");
        setError("");
     }
